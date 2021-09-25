@@ -1,12 +1,9 @@
-## Hi there 👋
+# Software Training Company
 
-<!--
+We provide programming language courses such as **Python**, **Ruby**, **Golang**,
+**JavaScript**, **Bash** for experts and beginners.
 
-**Here are some ideas to get you started:**
+- Courses are available at https://vbyazilim.com/training/
+- Read our blog at https://vbyazilim.com/blog/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+
