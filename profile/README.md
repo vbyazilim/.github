@@ -11,8 +11,8 @@ We provide programming language courses such as **Python**, **Ruby**, **Golang**
 ## Turkish
 
 **Python**, **Ruby**, **Golang**, **JavaScript**, **Bash** gibi programlama
-dilleri ve yazılım geliştirme konuları ile ilgili eğit ve danışmalık hizmetleri
-veriyoruz.
+dilleri ve yazılım geliştirme konuları ile ilgili eğitim ve danışmalık
+hizmetleri veriyoruz.
 
 - [Ağustos 2023, Mustafa Akgül Özgür Yazılım Yaz Kampı - Go Eğitimi](https://vbyazilim.github.io/maoyyk2023-golang-101-kursu/)
 
