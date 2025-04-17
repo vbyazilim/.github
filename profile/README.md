@@ -19,3 +19,5 @@ hizmetleri veriyoruz.
 ---
 
 hello@vbyazilim.com
+
+https://pypi.org/org/vbyazilim/
